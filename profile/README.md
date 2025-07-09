@@ -32,9 +32,8 @@ This offline assistant provides a clean and lightweight way to install chipset d
 
 🖼 Preview
 
-![AMD Chipset Install Interface](https://www.amd.com/content/dam/amd/en/images/kb/chipset-install/chipset-install-06.png)  
-![Driver Package Selection](https://www.amd.com/content/dam/amd/en/images/kb/chipset-install/chipset-install-11.png)  
-![AMD Installer Overview](https://www.amd.com/content/dam/amd/en/images/kb/chipset-install/chipset-install-01.png)
+![AMD Chipset Install Interface](https://www.techspot.com/images2/drivers/bigimage/2023/2023-12-05-image-2.jpg)  
+
 
 ---
 
